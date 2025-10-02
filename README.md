@@ -1,4 +1,4 @@
 # Git-demo
 learning git
 <br>
-adding info to git 
+adding info to (git)
